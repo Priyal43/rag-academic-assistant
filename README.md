@@ -2,7 +2,7 @@
 
 This project is an intelligent academic assistant that leverages Retrieval-Augmented Generation (RAG) to answer user queries based on research papers in PDF format. It retrieves the most relevant chunks from the paper and generates accurate, contextual answers using the LLaMA-4 model via the GROQ API.
 
-![Academic Research Assistant](screenshots\Picture1.png)
+![Academic Research Assistant](screenshots/picture.png)
 
 ##  How to Run It Locally
 

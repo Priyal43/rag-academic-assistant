@@ -8,7 +8,7 @@ This project is an intelligent academic assistant that leverages Retrieval-Augme
 
 1. **Clone this repo**  
    ```bash
-   git clone https://github.com/yourusername/academic-rag-assistant.git
+   git clone https://github.com/Priyal43/rag-academic-assistant.git
    cd academic-rag-assistant
 2. **Install dependencies**
     ```bash
